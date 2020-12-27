@@ -1,1 +1,1 @@
-Simple example how recurrent neural networks can create new drugs names and guess if a name is true or fake. The notebook was created in Colab with table of contents.
+Simple [example](https://github.com/HannaDGit/LSTM_example/blob/main/Drugs202001.ipynb) how recurrent neural networks can create new drugs names and guess if a name is true or fake. The notebook was created in Colab with table of contents.
